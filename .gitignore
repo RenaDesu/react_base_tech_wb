@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
